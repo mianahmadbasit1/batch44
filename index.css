@@ -1,0 +1,14 @@
+*{
+    background-color: tan;
+}
+.a:hover{
+background-color: green;
+color: red;
+}
+.ab{
+    display: flex;
+    list-style-type: none;
+}
+.ahmad{
+    background-color: green;
+}
